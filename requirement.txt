@@ -6,3 +6,6 @@ openpyxl
 yfinance
 pandas
 numpy
+plotly.graf_objects
+plotly.express
+datetime
